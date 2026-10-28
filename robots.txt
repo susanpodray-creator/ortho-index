@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /ortho-index/
+
+Sitemap: https://susanpodray-creator.github.io/ortho-index/sitemap.xml
